@@ -8,7 +8,8 @@
     <keywords>cordova,notification,service,worker</keywords>
 
     <dependency id="de.appplant.cordova.plugin.local-notification" />
-    <dependency id="cordova-plugin-service-worker" />
+    <dependency id="cordova-plugin-service-worker" url="https://github.com/sdaves/cordova-plugin-service-worker.git" />
+
 
     <js-module src="www/Notification.js" name="Notification">
 	<clobbers target="Notification" />
