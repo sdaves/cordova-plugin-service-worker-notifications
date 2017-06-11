@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	   id="cordova-plugin-service-worker-notifications"
-      version="1.0.0">
+      version="1.0.1">
     <name>Notifications</name>
     <description>Service Worker Notification Plugin</description>
     <license>Apache 2.0</license>
